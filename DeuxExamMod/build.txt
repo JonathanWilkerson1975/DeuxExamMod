@@ -1,0 +1,3 @@
+displayName = Deux Exam Mod
+author = Jonathan & Khai
+version = 0.1
